@@ -1,0 +1,2 @@
+ Copyright disclaimer under section 107 of the copyright act 1976 in the United States, allowance is made for “fair use” for purpose such as criticism, comment, news reporting, teaching, scholarship and research. 
+this is a demonstration project not meant for profit
